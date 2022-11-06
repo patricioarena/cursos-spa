@@ -1,0 +1,31 @@
+.custom-active {
+  cursor: pointer;
+  color: #333;
+}
+
+.custom-active:hover {
+  cursor: pointer;
+  color: #0d6efd !important;
+}
+
+.bg-dark {
+  background-color: #152337 !important;
+}
+
+.navbar-brand {
+  color: #fff !important
+}
+
+
+
+.nav-tabs .nav-link {
+  background-color: #ebebeb;
+  border: 1px solid #ddd;
+  color: #999;
+  // font-size: 12px;
+}
+
+.nav-tabs .nav-link.active {
+  // background-color: #038F43 !important;
+  color: #0d6efd !important;
+}
