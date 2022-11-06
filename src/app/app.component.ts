@@ -34,18 +34,18 @@ export class AppComponent {
   curso2: Curso = {
     cursoName: "Fisica genetica",
     videos: [
-      { name: "Clase 1 Física, fuerzas y potencias - Parte 1.mp4", url: "https://streamtape.com/v/WqWmxwgWaRCb4gd" },
-      { name: "Clase 1 Física, fuerzas y potencias - Parte 2.mp4", url: "https://streamtape.com/v/q69zd88a7VCz9v1" },
-      { name: "Clase 2 Fibra capilar y daños a nivel estructural, Parte 1.mp4", url: "https://streamtape.com/v/JqdypwkY4DIjYyX" },
-      { name: "Clase 2 Fibra capilar y daños a nivel estructural, Parte 2.mp4", url: "https://streamtape.com/v/1x2aywL111CeKVa" },
-      { name: "Clase 3 Procedimientos, Parte 1.mp4", url: "https://streamtape.com/v/XwAmJkVkGOcAAO" },
-      { name: "Clase 3 Procedimientos, Parte 2.mp4", url: "https://streamtape.com/v/revPAjyg2LibmYP" },
-      { name: "Clase 3 Procedimientos, Parte 3.mp4", url: "https://streamtape.com/v/D9yVBQzxdBHkXOb" },
-      { name: "Clase 4 Diagnostico, problemáticas, ingredientes compatibles, Parte 1.", url: "https://streamtape.com/v/myjOkQK12AIQ4v" },
-      { name: "Clase 4 Diagnostico, problemáticas, ingredientes compatibles, Parte 2.mp4", url: "https://streamtape.com/v/lAzWVAyVmZs7pBj" },
-      { name: "Clase 5 Cosmética, ciencia, mascaras y acondicionadores, Parte 1.mp4", url: "https://streamtape.com/v/yxj63Z6GLZUyj2" },
-      { name: "Clase 5 Cosmética, ciencia, mascaras y acondicionadores, Parte 2.mp4", url: "https://streamtape.com/v/O4YodRoWrauZVdY" },
-      { name: "Clase 5 Cosmética, ciencia, mascaras y acondicionadores, Parte 3.mp4", url: "https://streamtape.com/v/DQrzplDL0MfkOPD" }
+      { name: "Clase 1 Física, fuerzas y potencias - Parte 1", url: "https://streamtape.com/v/WqWmxwgWaRCb4gd" },
+      { name: "Clase 1 Física, fuerzas y potencias - Parte 2", url: "https://streamtape.com/v/q69zd88a7VCz9v1" },
+      { name: "Clase 2 Fibra capilar y daños a nivel estructural, Parte 1", url: "https://streamtape.com/v/JqdypwkY4DIjYyX" },
+      { name: "Clase 2 Fibra capilar y daños a nivel estructural, Parte 2", url: "https://streamtape.com/v/1x2aywL111CeKVa" },
+      { name: "Clase 3 Procedimientos, Parte 1", url: "https://streamtape.com/v/XwAmJkVkGOcAAO" },
+      { name: "Clase 3 Procedimientos, Parte 2", url: "https://streamtape.com/v/revPAjyg2LibmYP" },
+      { name: "Clase 3 Procedimientos, Parte 3", url: "https://streamtape.com/v/D9yVBQzxdBHkXOb" },
+      { name: "Clase 4 Diagnostico, problemáticas, ingredientes compatibles, Parte 1", url: "https://streamtape.com/v/myjOkQK12AIQ4v" },
+      { name: "Clase 4 Diagnostico, problemáticas, ingredientes compatibles, Parte 2", url: "https://streamtape.com/v/lAzWVAyVmZs7pBj" },
+      { name: "Clase 5 Cosmética, ciencia, mascaras y acondicionadores, Parte 1", url: "https://streamtape.com/v/yxj63Z6GLZUyj2" },
+      { name: "Clase 5 Cosmética, ciencia, mascaras y acondicionadores, Parte 2", url: "https://streamtape.com/v/O4YodRoWrauZVdY" },
+      { name: "Clase 5 Cosmética, ciencia, mascaras y acondicionadores, Parte 3", url: "https://streamtape.com/v/DQrzplDL0MfkOPD" }
     ]
   };
 
